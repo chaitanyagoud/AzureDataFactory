@@ -1,0 +1,9 @@
+{
+	"name": "AzurePracticeADFDKCG",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f61bf6a-8a67-4914-80a9-21aba7fe5e67",
+		"tenantId": "08878a00-46d0-4373-8038-b09b16368467"
+	}
+}
